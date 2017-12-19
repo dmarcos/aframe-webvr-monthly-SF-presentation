@@ -102,7 +102,7 @@ Expose ARCore and ARKit features: planes, anchors, light estimation.
 
 # What do the APIs look like
 
-Google's WebAR extends vrDisplay from the WebVR
+Google's WebAR extends vrDisplay from the existing WebVR API
 
 <pre style="font-size: 9pt">
   <code class="javascript">
@@ -113,6 +113,12 @@ Google's WebAR extends vrDisplay from the WebVR
     vrDisplay.addEventListener('anchorsupdated', function () {});
   </code>
 </pre>
+
+------
+
+# What do the APIs look like
+
+Mozilla's WebXR more extensive redesign of the WebVR.
 
 ------
 
