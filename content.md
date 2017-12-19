@@ -136,10 +136,20 @@ https://github.com/mozilla/three.xr.js
 
 # Library space **A-Frame**
 
-Mozilla XR component 
+Mozilla XR component
 
 https://github.com/mozilla/aframe-xr
 
  <div class="stack-image">
   <img data-src="media/img/aframear.png">
  </div>
+
+------
+
+# A-Painter
+
+<div class="stack-image">
+  <img data-src="media/img/webXR-graffiti-sd.gif">
+</div>
+
+------
