@@ -118,7 +118,7 @@ Google's WebAR extends vrDisplay from the existing WebVR API
 
 # What do the APIs look like
 
-Mozilla's WebXR more extensive redesign of the WebVR.
+Mozilla's WebXR more extensive redesign of WebVR.
 
 ------
 
